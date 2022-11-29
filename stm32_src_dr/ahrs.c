@@ -6,6 +6,9 @@
 #include "flight_control.h"
 
 
+int smdbox_test_kazu1[2];
+int smdbox_test_kazu2[2];
+
 float offset[3];
 float cor[3][3];
 
