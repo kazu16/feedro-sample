@@ -11,6 +11,9 @@ int smdbox_test_kazu2[2];
 int smdbox_test_kazu3[3];
 int smdbox_test_kazu4[4];
 
+int smdbox_test_kazu5[5];
+
+
 float offset[3];
 float cor[3][3];
 
